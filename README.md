@@ -23,3 +23,10 @@ The MC-09 tutorial: Calculation of the magnetization curve of the spin-½ Heisen
 - Spack install tutorial video — https://alps.comp-phys.org/documentation/install/spack/
 - Contribution 2 — link 2
 - Contribution 3 — link 3
+
+---
+
+## References
+1. R1
+2. R2
+3. R3......
